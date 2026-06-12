@@ -1,0 +1,15 @@
+# Ignore heavy raw GROMACS output files generated during execution
+*.xtc
+*.trr
+*.gro
+*.edr
+*.tpr
+*.cpt
+*.log
+*.zip
+*.xvg
+*.dat
+
+# Ignore system installation downloads and local caches
+Gromacs_2024.4_stable_installer/
+.ipynb_checkpoints/
