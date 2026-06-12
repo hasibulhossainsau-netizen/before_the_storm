@@ -80,6 +80,6 @@ Step 5: Execute & Fetch Analytics
 
     Upon termination, the script automatically packs all checkpoint configurations, logs, and structural figures into a clean simulation_output.zip archive available in your workspace output panel.
 
-⚖️ License
+## ⚖️ License
 
-Distributed under the MIT License. See LICENSE for more information. Any academic or computational use of this automated blueprint is highly welcome.
+Distributed under the MIT License. See the [LICENSE](./LICENSE) file for more information. Any academic or computational use of this automated blueprint is highly welcome.
