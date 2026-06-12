@@ -1,6 +1,6 @@
-# 🧬 Automated GROMACS 10 ns Molecular Dynamics Simulation Pipelin
+# 🧬 Automated GROMACS 10 ns Molecular Dynamics Simulation Pipeline
 
-[![Kaggle](https://img.shields.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/mdhasibulhossain434/before-the-storm?scriptVersionId=325403814)
+[![Kaggle](https://img.shields.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/code/mdhasibulhossain434/before-the-storm?scriptVersionId=325403814)
 [![License: MIT](https://img.shields.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 An end-to-end structural bioinformatics workflow implemented in Python and Bash for automating **10 ns production Molecular Dynamics (MD) simulations** of peptide-protein complexes using **GROMACS**. 
