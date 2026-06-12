@@ -29,10 +29,10 @@ The pipeline is natively configured to harness cloud-based GPU infrastructure (s
 
 ## 📁 Repository Blueprint
 ```text
-├── .gitignore               # Prevents multi-gigabyte binary trajectories from bloating Git
-├── LICENSE                  # MIT Permissive License
-├── README.md                # Comprehensive documentation frontpage
-└── before-the-storm.ipynb   # Master executed notebook with source code, logs, and plots
+├── .gitignore               
+├── LICENSE                  
+├── README.md                
+└── before-the-storm.ipynb  
 ```
 💻 How to Run This Pipeline on Kaggle (With Your Own Data)
 
